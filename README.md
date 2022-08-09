@@ -6,7 +6,7 @@ There are two different different Scenarios, one detects and moves toward color 
 These are the steps for color detection:
  1) roscore
  2) roslaunch gazebo_ros empty_world.launch
- 3) open python color_detection.py in a terminal
+ 3) open python color_server.py in a terminal
  4) open python tree_run_Trial.py in another terminal
  
  
