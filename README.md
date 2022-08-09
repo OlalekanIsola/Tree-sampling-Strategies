@@ -1,5 +1,5 @@
 # Tree-sampling-Strategies
-This program was written in ROS for Autonomous Robot to detect plants along a row and turn towards it depending on the specification. I built on this project (https://github.com/etgaro/OSE_Final_Project).
+This program is written in ROS for Autonomous Robot to detect plants along a row and turn towards it depending on the specification. I built on this project (https://github.com/etgaro/OSE_Final_Project).
 
 There are two different different Scenarios, one detects and moves toward color red attached to a tree and the other goes to every N plant
 
